@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-0 tvg-id="premium.kino" tvg-name="Премиум Кино" tvg-logo="https://raw.githubusercontent.com/OinkTechLtd/tv-livetv/main/logo/455ddf2e-8521-4769-9ee0-2bfbf6c293a9.png" group-title="Кино",Премиум Кино
+#EXTINF:-1 tvg-id="premium.kino" tvg-name="Премиум Кино" tvg-logo="https://raw.githubusercontent.com/OinkTechLtd/tv-livetv/main/logo/455ddf2e-8521-4769-9ee0-2bfbf6c293a9.png" group-title="Кино",Премиум Кино
 #EXTINF:-1, - Двенадцать месяцев
 https://mults.info/mp4/12_mesyacev.mp4
 #EXTINF:-1, - Снеговик-почтовик
